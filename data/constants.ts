@@ -1,5 +1,5 @@
 export const REPORT_CONFIG = {
-  reportDate: "Sep 3, 2026",
+  reportDate: "October 8, 2026",
   reportTitle: "Backlink Performance Summary Report",
   reportSubtitle: "Country: US | Source: Ahrefs, GSC",
   dataSource: "Ahrefs, GSC",
@@ -62,21 +62,21 @@ export const MONTH_INDICES = {
 // These should match the months at MONTH_INDICES.baseline and MONTH_INDICES.current
 export const MONTH_LABELS = {
   baseline: "Dec 2025 (Baseline)", // Display label for baseline month
-  current: "August 2026", // Display label for current month
+  current: "September 2026", // Display label for current month
 };
 
 export const DASHBOARD_STATS = {
   urlsTracked: 15,
-  totalBacklinks: 381,
+  totalBacklinks: 421,
   keywordsTracked: 35,
-  PlanTotalBacklinks : 420,
+  PlanTotalBacklinks : 455,
 };
 
 export const KEY_FINDINGS = [
   {
     title: "Sustained Visibility on Core Keywords",
     description:
-      "**Remote access and support keywords** continue to maintain strong visibility, with **'remote access (5)' ranking in the top 5 and 'remote support (10)'** securing a first-page position.",
+      "**Remote desktop-related keywords showed continued improvement**, with **'remote desktop solution' moving from 18 to 10** and **'remote desktop tools' reaching position 7.**",
     icon: "fas fa-bullseye",
     color: "text-teal-600",
     bgColor: "bg-teal-50",
@@ -84,7 +84,7 @@ export const KEY_FINDINGS = [
   {
     title: "High-Authority Backlink Acquisition",
     description:
-      "**Approximately 89% of referring domains have a DA between 41–100**, reflecting a strong backlink profile supported by authoritative and credible websites.",
+      "The backlink profile continues to maintain strong domain quality, **with approximately 90% of referring domains having a DA between 41–100. **",
     icon: "fas fa-shield-alt",
     color: "text-purple-600",
     bgColor: "bg-purple-50",
@@ -92,7 +92,7 @@ export const KEY_FINDINGS = [
   {
     title: "Strong Performance Across Competitor Keywords",
     description:
-      "Most of the **competitor keywords** are showing great improvement, with **three keywords now ranking in the top 10 positions**.",
+      "Competitor keywords continue to strengthen, **with 4 keywords now ranking in the top 10 positions, including 2 keywords ranking in the top 5.**",
     icon: "fas fa-chart-line",
     color: "text-blue-600",
     bgColor: "bg-blue-50",
@@ -100,7 +100,7 @@ export const KEY_FINDINGS = [
   {
     title: "Domain Authority Improvement",
     description:
-      "**Domain authority improved for a key referring domain**, with the DA increasing from **43 to 48** for the domain associated with **'remote access software.'**",
+      "Patch management and endpoint management keywords continue to show strong performance, with **2 keywords ranking in the top 5 positions in September.**",
     icon: "fas fa-arrow-trend-up",
     color: "text-green-600",
     bgColor: "bg-green-50",
@@ -113,7 +113,7 @@ export const BUSINESS_IMPACT_CONFIG = {
   // chartTitle: "Critical Keywords",
   chartSubtitle: "Critical keywords Performance",
   insightText: [
-  "Remote access and remote desktop keywords continue to deliver strong visibility, with 'remote access (5)' maintaining a top 5 position, while 'remote desktop (29)' continues to rank within the top 30.",
+  "Remote access and remote desktop keywords continue to deliver strong visibility, with 'remote access (5)' maintaining a top 5 position, while 'remote desktop (12)' returns to its Dec’25 position.",
   "Competitor keywords continue to strengthen, with 'anydesk pricing (4)' and 'teamviewer alternative (5)' ranking in the top 5, while 'teamviewer pricing (5)' maintains its top 5 position and 'anydesk alternative (7)' moves into the top 10.'teamviewer pricing (5)' now ranking in the top 5, while 'teamviewer alternative (9)' maintains a first-page position. ",
   "Patch management is showing significant improvement, moving from position 62 to 8 and securing a first-page ranking. "
 ],
@@ -124,7 +124,7 @@ export const BUSINESS_IMPACT_CONFIG = {
 
 export const REFERRING_DOMAINS_CONFIG = {
   qualityStatement:
-    "Approximately 89% of referring domains fall within the DA 41–100 range, reflecting a strong and credible backlink profile supported by high-quality, authoritative referring websites. ",
+    "**Approximately 90% of referring domains fall within the DA 41–100 range, reflecting a strong and credible backlink profile supported by a substantial number of high-quality, authoritative referring websites.**",
 };
 
 export const IMPLEMENTATION_CONFIG = {

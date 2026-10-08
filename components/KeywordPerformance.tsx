@@ -125,7 +125,7 @@ const top3Oct: KeywordRankInfo[] =
                     Position Change
                   </th>
                   <th className="p-3 text-center text-xs font-bold text-gray-600 uppercase">
-             August Rank
+             September Rank
                   </th>
                 </tr>
               </thead>

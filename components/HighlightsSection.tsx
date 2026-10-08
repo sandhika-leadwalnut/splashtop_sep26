@@ -20,11 +20,10 @@ const HighlightsSection = () => {
 
             <div>
               <h3 className="text-2xl font-semibold text-gray-900 leading-snug">
-“Remote Access” Maintains Strong Top 5 Visibility              </h3>
+Sustained Top 5 Visibility for “Remote Access”           </h3>
 
               <p className="text-gray-600 mt-4 leading-8 text-[15px] max-w-4xl">
-             The “Remote Access” keyword continued its upward trajectory, reaching #5 in August and maintaining strong visibility for one of Splashtop’s core search categories.
-              </p>
+Splashtop has sustained Top 5 visibility for “remote access” over the past few months. Following a recent dip during the spam update, the keyword has recovered to the Top 5, supported by consistent high-quality backlink acquisition.              </p>
             </div>
           </div>
 
@@ -46,12 +45,11 @@ const HighlightsSection = () => {
 
             <div>
               <h3 className="text-2xl font-semibold text-gray-900 leading-snug">
-              Major Ranking Breakthrough for “Patch Management”
+Major Ranking Breakthrough for “Patch Management”
               </h3>
 
               <p className="text-gray-700 mt-4 leading-8 text-[15px] max-w-4xl">
-              The “Patch Management” keyword made a substantial jump from the 40s into the Top 10, reaching #6 in August and significantly expanding visibility for this priority category.
-
+The “Patch Management” keyword made a substantial jump from the 40s into the Top 10, reaching #6 in August and significantly expanding visibility for this priority category.
               </p>
             </div>
           </div>
