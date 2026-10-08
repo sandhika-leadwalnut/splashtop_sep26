@@ -779,22 +779,22 @@ export const keywordImpactRows: KeywordImpactRow[] = [
   { keyword: "remote support", baseline: 8, jan25: 6, dec25: 6 },
   { keyword: "remote support software", baseline: 12, jan25: 101, dec25: 101 },
 
-  { keyword: "remote desktop", baseline: 12, jan25: 3, dec25: 3 },
-  { keyword: "remote desktop software", baseline: 20, jan25: 28, dec25: 28 },
+  { keyword: "remote desktop", baseline: 12, jan25: 3, dec25: 12 },
+  { keyword: "remote desktop software", baseline: 20, jan25: 28, dec25: 22 },
 
-  { keyword: "teamviewer alternative", baseline: 7, jan25: 9, dec25: 9 },
-  { keyword: "teamviewer pricing", baseline: 20, jan25: 5, dec25: 5 },
+  { keyword: "teamviewer alternative", baseline: 7, jan25: 9, dec25: 2 },
+  { keyword: "teamviewer pricing", baseline: 20, jan25: 5, dec25: 4 },
 
-  { keyword: "logmein alternative", baseline: 22, jan25: 17, dec25: 17 },
-  { keyword: "logmein pricing", baseline: 11, jan25: 32, dec25: 32 },
+  { keyword: "logmein alternative", baseline: 22, jan25: 17, dec25: 9 },
+  { keyword: "logmein pricing", baseline: 11, jan25: 32, dec25: 44 },
 
-  { keyword: "anydesk alternative", baseline: 20, jan25: 19, dec25: 19 },
+  { keyword: "anydesk alternative", baseline: 20, jan25: 19, dec25: 9 },
   { keyword: "anydesk pricing", baseline: 8, jan25: 4, dec25: 4 },
 
-  { keyword: "patch management", baseline: 62, jan25: 8, dec25: 8 },
+  { keyword: "patch management", baseline: 62, jan25: 8, dec25: 5 },
   { keyword: "patch management software", baseline: 101, jan25: 101, dec25: 101 },
 
-  { keyword: "autonomous endpoint management", baseline: 14, jan25: 101, dec25: 101 },
+  { keyword: "autonomous endpoint management", baseline: 14, jan25: 101, dec25: 5 },
 ];
 // ============================================================================
 // KEYWORD TREND CHARTS DATA

@@ -162,11 +162,10 @@ Splashtop is the only player represented across all 10 priority topics, with Top
 
       <div>
         <h3 className="text-2xl font-semibold text-gray-900">
-         #1 AI Mention Share in Remote Access
-        </h3>
+Leading AI Brand Mention Share for “Remote Desktop”        </h3>
 
         <p className="text-gray-700 mt-4 leading-8 text-[15px] max-w-5xl">
-        Splashtop secured the highest share of AI brand mentions at 27.7%, maintaining a clear lead over TeamViewer and other tracked competitors across the monitored remote access prompts.
+Splashtop holds the highest AI brand mention share at 27.2% for “remote desktop,” outperforming tracked competitors and demonstrating a leading presence in AI-generated responses for this business-critical topic.
         </p>
       </div>
     </div>
