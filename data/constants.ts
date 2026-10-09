@@ -92,7 +92,7 @@ export const KEY_FINDINGS = [
   {
     title: "Strong Performance Across Competitor Keywords",
     description:
-      "Competitor keyword category continues to gain search visibility,**with 5 keywords securing top 10 positions.**",
+      "Competitor keyword category continues to gain search visibility, **with 5 keywords securing top 10 positions.**",
     icon: "fas fa-chart-line",
     color: "text-blue-600",
     bgColor: "bg-blue-50",
@@ -100,7 +100,7 @@ export const KEY_FINDINGS = [
   {
     title: "Domain Authority Improvement",
     description:
-      "Patch management and endpoint management categories show strong ranking gains,**with 'patch management' and 'autonomous endpoint management' keywords reaching the top 5 positions.**",
+      "Patch management and endpoint management categories show strong ranking gains, **with 'patch management' and 'autonomous endpoint management' keywords reaching the top 5 positions.**",
     icon: "fas fa-arrow-trend-up",
     color: "text-green-600",
     bgColor: "bg-green-50",
