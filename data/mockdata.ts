@@ -776,7 +776,7 @@ export const keywordImpactRows: KeywordImpactRow[] = [
   { keyword: "remote access", baseline: 7, jan25: 5, dec25: 5 },
   { keyword: "remote access software", baseline: 13, jan25: 101, dec25: 101 },
 
-  { keyword: "remote support", baseline: 8, jan25: 6, dec25: 6 },
+  { keyword: "remote support", baseline: 8, jan25: 6, dec25: 11 },
   { keyword: "remote support software", baseline: 12, jan25: 101, dec25: 101 },
 
   { keyword: "remote desktop", baseline: 12, jan25: 3, dec25: 12 },

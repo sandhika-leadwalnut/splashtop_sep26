@@ -22,11 +22,11 @@ import {
   UI_TEXT,
 } from "../data/index";
 const categoryInsights = [
-  " Remote access and remote desktop keywords continue to deliver strong visibility, with 'remote access (5)' maintaining a top 5 position, while 'remote desktop (12)' returns to its Dec’25 position.",
+  "Informational keywords continue to deliver strong visibility, with 'remote access (5)' securing a top 5 position, while 'remote desktop (12)' and 'remote support (11)' maintain stable rankings.",
 
-  "Competitor keywords continue to strengthen, with 'teamviewer alternative (2)' and 'teamviewer pricing (4)' ranking in the top 5, while 'logmein alternative (9)' and 'anydesk alternative (9)' move into the top 10.",
+  "Competitor keywords continue to strengthen, with 5 out of 6 keywords ranking in the top 10 positions, including 3 keywords ranking in the top 5.",
 
-  "Patch management and endpoint management keywords show strong improvement, with 'patch management (5)' and 'autonomous endpoint management (5)' both ranking in the top 5, improving from positions 62 and 14 respectively.",
+  "Patch management and endpoint management keywords continue to show strong performance, with 2 out of 3 keywords ranking in the top 5 positions.",
 ];
 const InsightBox = ({ text }: { text: string }) => (
  <div className="flex justify-center mt-2 mb-6">

@@ -58,13 +58,13 @@ const App: React.FC = () => {
           />
           <SummaryCard
             icon={<i className="fa-solid fa-search text-3xl text-blue-500"></i>}
-            title="Plan Total Backlinks (Till Aug)"
+            title="Plan Total Backlinks (Till Sep)"
             value={DASHBOARD_STATS.PlanTotalBacklinks.toString()}
             description=""
           />
           <SummaryCard
             icon={<LinkIcon />}
-            title="Actual Total Backlinks (Till Aug)"
+            title="Actual Total Backlinks (Till Sep)"
             value={DASHBOARD_STATS.totalBacklinks.toString()}
             description=""
           />

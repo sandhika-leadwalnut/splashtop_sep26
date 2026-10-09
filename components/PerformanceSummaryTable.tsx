@@ -39,10 +39,10 @@ const PerformanceSummaryTable = ({ data }: PerformanceSummaryTableProps) => {
       <div className="w-full h-px bg-gray-200 mb-6"></div>
       <div className="bg-white shadow-lg rounded-xl overflow-hidden">
         <div className="overflow-x-auto">
-          <table className="w-full text-sm">
+          <table className="w-full text-[15px]">
             <thead className="bg-slate-50 border-b-2 border-gray-300">
               <tr>
-                <th className="p-4 text-left text-xs font-bold text-gray-600 uppercase tracking-wider">
+                <th className="p-4 text-left text-xs font-bold text-gray-600 uppercase tracking-wider w-[280px]">
                   URL
                 </th>
                 <th className="p-4 text-left text-xs font-bold text-gray-600 uppercase tracking-wider">
@@ -62,8 +62,14 @@ const PerformanceSummaryTable = ({ data }: PerformanceSummaryTableProps) => {
             <tbody className="divide-y divide-gray-200">
               {performanceSummary.map((summary, index) => (
                 <tr key={index} className="hover:bg-gray-50">
-                  <td className="p-4 whitespace-nowrap font-medium text-gray-800">
-                    {summary.url}
+                  <td
+                    className="p-4 font-medium text-gray-800 max-w-[280px] truncate"
+                    title={summary.url}
+                  >
+                    {summary.url.replace(
+                      /^https?:\/\/(www\.)?splashtop\.com/,
+                      ""
+                    )}
                   </td>
                   <td className="p-4 whitespace-nowrap text-gray-600 font-semibold">
                     {summary.paChange > 0

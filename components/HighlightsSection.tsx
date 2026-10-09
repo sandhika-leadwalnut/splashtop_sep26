@@ -23,7 +23,7 @@ const HighlightsSection = () => {
 Sustained Top 5 Visibility for “Remote Access”           </h3>
 
               <p className="text-gray-600 mt-4 leading-8 text-[15px] max-w-4xl">
-Splashtop has sustained Top 5 visibility for “remote access” over the past few months. Following a recent dip during the spam update, the keyword has recovered to the Top 5, supported by consistent high-quality backlink acquisition.              </p>
+Splashtop has sustained Top 5 visibility for “remote access” over the past few months. Following a recent dip during the spam update, the keyword has recovered to the Top 5, supported by consistent high-quality backlink acquisition.      </p>
             </div>
           </div>
 
@@ -45,18 +45,17 @@ Splashtop has sustained Top 5 visibility for “remote access” over the past f
 
             <div>
               <h3 className="text-2xl font-semibold text-gray-900 leading-snug">
-Major Ranking Breakthrough for “Patch Management”
+“TeamViewer Pricing” Regains Top 5 Stability
               </h3>
 
               <p className="text-gray-700 mt-4 leading-8 text-[15px] max-w-4xl">
-The “Patch Management” keyword made a substantial jump from the 40s into the Top 10, reaching #6 in August and significantly expanding visibility for this priority category.
-              </p>
+Splashtop’s “TeamViewer pricing” keyword has regained Top 5 visibility after a temporary decline following the spam update and has remained stable, supported by consistent high-quality backlink acquisition.              </p>
             </div>
           </div>
 
         <div className="mt-8 border-2 border-gray-300 rounded-2xl overflow-hidden shadow-md bg-white p-3">
   <img
-    src="/patch_management.png"
+    src="/teamviewer.png"
     alt="Remote Support Top 10 ranking"
     className="w-full rounded-lg object-cover"
   />
@@ -72,19 +71,18 @@ The “Patch Management” keyword made a substantial jump from the 40s into the
 
             <div>
               <h3 className="text-2xl font-semibold text-gray-900 leading-snug">
-                “TeamViewer Pricing” Strengthens Competitive Visibility
+Stable Top 5 Performance for “LogMeIn Alternative”
               </h3>
 
               <p className="text-gray-700 mt-4 leading-8 text-[15px] max-w-4xl">
-                The “TeamViewer Pricing” keyword recovered from ranking fluctuations and reached #5.3 in August, strengthening Splashtop’s position in a key competitor-focused search.
-
+Splashtop’s “LogMeIn alternative” page has moved from outside the Top 100 to sustained Top 5 visibility, with the ranking remaining consistently strong following the initial improvement.
               </p>
             </div>
           </div>
 
           <div className="mt-8 border-2 border-gray-300 rounded-2xl overflow-hidden shadow-md bg-white p-3">
             <img
-              src="/teamviewer.png"
+              src="/logmein.png"
               alt="AnyDesk Pricing ranking"
               className="w-full object-cover rounded-lg"
             />
@@ -92,7 +90,7 @@ The “Patch Management” keyword made a substantial jump from the 40s into the
         </div>
 
         {/* Highlight 4 */}
-        <div className="mb-16">
+        {/* <div className="mb-16">
           <div className="flex items-start gap-4 mb-5">
             <div className="w-10 h-10 rounded-full bg-orange-100 text-orange-600 flex items-center justify-center font-bold text-lg">
               4
@@ -116,7 +114,7 @@ The “Patch Management” keyword made a substantial jump from the 40s into the
               className="w-full object-cover rounded-lg"
             />
           </div>
-        </div>
+        </div> */}
 
       {/* LLM Highlights */}
 <div className="mt-20 border-t pt-12">
@@ -138,7 +136,7 @@ The “Patch Management” keyword made a substantial jump from the 40s into the
         </h3>
 
         <p className="text-gray-700 mt-4 leading-8 text-[15px] max-w-5xl">
-Splashtop is the only player represented across all 10 priority topics, with Top 2 rankings across 8 of the 10, demonstrating the broadest and strongest AI visibility across the tracked categories.        </p>
+Splashtop achieves AI visibility across 9 of the 10 tracked priority topics, with Top 2 positions across 7 topics, demonstrating broad and consistent presence across key solution categories. </p>
       </div>
     </div>
 
@@ -190,12 +188,10 @@ Splashtop holds the highest AI brand mention share at 27.2% for “remote deskto
 
       <div>
         <h3 className="text-2xl font-semibold text-gray-900">
-Dominant AI Citation Share in Remote Support
-        </h3>
+Dominant AI Brand Presence in AEM        </h3>
 
         <p className="text-gray-700 mt-4 leading-8 text-[15px] max-w-5xl">
-    Splashtop captured the highest AI citation share in the Remote Support category at 28.9%, leading TeamViewer by more than 11 percentage points and strengthening its visibility across AI-generated responses.
-        </p>
+Splashtop captures 37.7% of AI brand mentions in the AEM category, more than 2x the next competitor, highlighting a significant lead in AI-generated AEM discussions.        </p>
       </div>
     </div>
 
@@ -219,12 +215,10 @@ Dominant AI Citation Share in Remote Support
 
       <div>
         <h3 className="text-2xl font-semibold text-gray-900">
-       Leading AI Citation Presence in AEM
-        </h3>
+Strong AI Citation Leadership in Remote Access        </h3>
 
         <p className="text-gray-700 mt-4 leading-8 text-[15px] max-w-5xl">
-Splashtop secured a 28.1% AI citation share in the AEM category, tying for the highest share among tracked competitors and establishing a leading position in AI-generated AEM responses.        </p>
-      </div>
+Splashtop accounts for 31.2% of AI citations in the Remote Access category, the highest share among tracked competitors, reinforcing its authority in AI-generated responses.</p>      </div>
     </div>
 
    <div className="mt-8 flex justify-center">
@@ -236,6 +230,31 @@ Splashtop secured a 28.1% AI citation share in the AEM category, tying for the h
     />
   </div>
 </div>
+  </div>
+  {/* LLM Highlight 5 */}
+  <div>
+    <div className="flex items-start gap-4 mb-5">
+      <div className="w-10 h-10 rounded-full bg-pink-100 text-pink-600 flex items-center justify-center font-bold text-lg">
+        5
+      </div>
+
+      <div>
+        <h3 className="text-2xl font-semibold text-gray-900">
+High AI Citation Share in Remote Support       </h3>
+
+        <p className="text-gray-700 mt-4 leading-8 text-[15px] max-w-5xl">
+Splashtop captured 30.0% of AI citations for Remote Support, 1.6x the share of the next competitor, highlighting a substantial lead in AI-generated visibility for the category.</p>      </div>
+    </div>
+
+    <div className="mt-8 flex justify-center">
+      <div className="w-full max-w-2xl border-2 border-gray-300 rounded-2xl overflow-hidden shadow-md bg-white p-4">
+        <img
+          src="/llm-3.png"
+          alt="Strongest Brand Sentiment"
+          className="w-full h-auto object-contain rounded-lg"
+        />
+      </div>
+    </div>
   </div>
 </div>
 

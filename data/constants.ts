@@ -76,7 +76,7 @@ export const KEY_FINDINGS = [
   {
     title: "Sustained Visibility on Core Keywords",
     description:
-      "**Remote desktop-related keywords showed continued improvement**, with **'remote desktop solution' moving from 18 to 10** and **'remote desktop tools' reaching position 7.**",
+      "The backlink profile continues to maintain strong domain quality, **with approximately 90% of referring domains having a DA between 41–100.** ",
     icon: "fas fa-bullseye",
     color: "text-teal-600",
     bgColor: "bg-teal-50",
@@ -84,7 +84,7 @@ export const KEY_FINDINGS = [
   {
     title: "High-Authority Backlink Acquisition",
     description:
-      "The backlink profile continues to maintain strong domain quality, **with approximately 90% of referring domains having a DA between 41–100. **",
+      "Informational keywords continue to show strong performance,**with 3 keywords—'remote access (5),' 'remote desktop (12),' and 'remote support (11)'—maintaining strong search visibility**",
     icon: "fas fa-shield-alt",
     color: "text-purple-600",
     bgColor: "bg-purple-50",
@@ -92,7 +92,7 @@ export const KEY_FINDINGS = [
   {
     title: "Strong Performance Across Competitor Keywords",
     description:
-      "Competitor keywords continue to strengthen, **with 4 keywords now ranking in the top 10 positions, including 2 keywords ranking in the top 5.**",
+      "Competitor keywords continue to strengthen,**with 5 keywords now ranking in the top 10 positions, including 3 keywords ranking in the top 5.** ",
     icon: "fas fa-chart-line",
     color: "text-blue-600",
     bgColor: "bg-blue-50",
@@ -100,7 +100,7 @@ export const KEY_FINDINGS = [
   {
     title: "Domain Authority Improvement",
     description:
-      "Patch management and endpoint management keywords continue to show strong performance, with **2 keywords ranking in the top 5 positions in September.**",
+      "Patch management and endpoint management keywords continue to show strong performance, with **2 keywords ranking in the top 5 positions.**",
     icon: "fas fa-arrow-trend-up",
     color: "text-green-600",
     bgColor: "bg-green-50",
