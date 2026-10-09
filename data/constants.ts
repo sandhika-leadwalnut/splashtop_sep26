@@ -100,7 +100,7 @@ export const KEY_FINDINGS = [
   {
     title: "Domain Authority Improvement",
     description:
-      "Patch management and endpoint management categories show strong ranking gains, **with 'patch management' and 'autonomous endpoint management' keywords reaching the top 5 positions.**",
+      "Patch management and endpoint management keywords showed strong ranking gains, **with both keywords reaching the top 5 positions.** ",
     icon: "fas fa-arrow-trend-up",
     color: "text-green-600",
     bgColor: "bg-green-50",
