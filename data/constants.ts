@@ -84,7 +84,7 @@ export const KEY_FINDINGS = [
   {
     title: "High-Authority Backlink Acquisition",
     description:
-      "Informational keywords continue to show strong performance,**with 3 keywords—'remote access (5),' 'remote desktop (12),' and 'remote support (11)'—maintaining strong search visibility**",
+      "**Page authority improved across both informational and commercial pages**, with notable gains in the remote support, remote desktop, and patch management categories. ",
     icon: "fas fa-shield-alt",
     color: "text-purple-600",
     bgColor: "bg-purple-50",
@@ -92,7 +92,7 @@ export const KEY_FINDINGS = [
   {
     title: "Strong Performance Across Competitor Keywords",
     description:
-      "Competitor keywords continue to strengthen,**with 5 keywords now ranking in the top 10 positions, including 3 keywords ranking in the top 5.** ",
+      "Competitor keywords continue to strengthen,**with 5 out of 6 keywords now ranking in the top 10 positions, including 3 keywords ranking in the top 5.**",
     icon: "fas fa-chart-line",
     color: "text-blue-600",
     bgColor: "bg-blue-50",
